@@ -1,2 +1,2 @@
 # Portfolio website
-...yeah, that's 'about it!
+...yeah, that's 'bout it!
